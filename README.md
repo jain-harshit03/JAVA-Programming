@@ -1,1 +1,1 @@
-# different-input-methods-in-java
+different assignments based on JAVA
